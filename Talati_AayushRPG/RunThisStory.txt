@@ -1,0 +1,11 @@
+1 | You get thrown into a dark, misty maze. Paths lead left and right. Which way do you go? | 2 | 3
+2 | You turn left, and a cold chill runs down your spine. You hear footsteps behind you. Do you run left or right? | 4 | 5
+3 | You turn right, and the mist thickens. A shadowy figure seems to watch from afar. Do you go left or right? | 6 | 7
+4 | You take the left path and stumble upon an old, rusty gate. Go left to avoid it or right to push it open. | 8 | 9
+5 | You go right and find a dead end with strange symbols on the walls. Suddenly, whispers grow louder, forcing you to flee the maze. | -1 | -1
+6 | You turn left and hear a child's laughter echoing in the darkness. Go left to follow the sound or right to move away. | 10 | 11
+7 | You go right and see a dim light ahead. You rush towards it, finding an exit just as the walls start to close in on you. You escaped. | -1 | -1
+8 | You avoid the gate and continue down the path. A hidden door creaks open, leading you out of the maze. You escaped. | -1 | -1
+9 | You push the gate open, and it slams shut behind you. A tall figure looms in the shadows. Your journey ends here. | -1 | -1
+10 | You follow the laughter and discover an old doll, its eyes glowing red. As you pick it up, the maze disappears, leaving you trapped in a nightmare. | -1 | -1
+11 | You move away from the laughter, but the sound follows you. You turn a corner and find an exit. You escaped | -1 | -1
