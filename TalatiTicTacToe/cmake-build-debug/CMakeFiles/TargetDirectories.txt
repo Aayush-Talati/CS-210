@@ -1,0 +1,3 @@
+C:/Users/talat/CLionProjects/TalatiTicTacToe/cmake-build-debug/CMakeFiles/TalatiTicTacToe.dir
+C:/Users/talat/CLionProjects/TalatiTicTacToe/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/talat/CLionProjects/TalatiTicTacToe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
